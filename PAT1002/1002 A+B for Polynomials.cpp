@@ -9,5 +9,7 @@
 #include "iostream"
 using namespace std;
 int main(){
-    cout<<"sda";
+    
+    
+    return 0;
 }
